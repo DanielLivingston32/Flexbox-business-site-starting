@@ -50,7 +50,7 @@ a{
 #mission{
     height: 700px;
     display: flex;
-    background: url("/resources/img/img-mission-background.jpg");
+    background: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
     align-items: center;
     width: 1200px;
     margin: auto;
@@ -88,7 +88,7 @@ a{
 }
 
 #locations{
-    background-image: url("./resources/img/img-locations-background.jpg");
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
     height: 600px;
     width: 1200px;
     margin: auto;
