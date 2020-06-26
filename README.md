@@ -1,0 +1,3 @@
+# Flexbox-business-site-starting
+
+> This is my codecademy startup landing page project...
